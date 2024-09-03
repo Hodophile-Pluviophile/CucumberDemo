@@ -35,6 +35,7 @@ public class BigBasketRunnerClass extends BibasketBaseClass{
 		BigBasketRunnerClass run = new BigBasketRunnerClass();
 		run.gethomepage();
 		run.getloginpage();
+		run.gethomepage();
 		run.getverifyloginpage();
 	}
 }
